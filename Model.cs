@@ -2,6 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using System;
+/// <summary>
+/// this is model
+/// </summary>
 public class Model {
 	private string name;
 	private int hp;
