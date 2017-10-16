@@ -6,6 +6,7 @@ public class Controller  {
 	View currentView;
 	Model currentModel;
 //	ExpView currentExpView;
+//////
 	public Controller()
 	{
 		currentView = GameObject.Find ("MainGUI").GetComponent<View>();
